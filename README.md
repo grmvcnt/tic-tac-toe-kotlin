@@ -5,17 +5,15 @@ Ce projet est une implémentation simple du jeu Tic Tac Toe (Morpion) en utilisa
 Assurez-vous d'avoir Kotlin installé sur votre système. Si ce n'est pas le cas, vous pouvez le télécharger à partir du site officiel de Kotlin.
 
 Clonez ce repository Git sur votre machine locale en utilisant la commande suivante :
-
 ```bash
-Copy code
 git clone https://github.com/grmvcnt/tic-tac-toe-kotlin.git
 ```
-Accédez au répertoire du projet :
 
-Copy code
+Accédez au répertoire du projet :
 ```bash
 cd tic-tac-toe-kotlin
 ```
+
 Compilez et exécutez le jeu
 
 ## Exemple d'utilisation

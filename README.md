@@ -17,7 +17,7 @@ cd tic-tac-toe-kotlin
 Compilez et exécutez le jeu
 
 ## Exemple d'utilisation
-Voici un exemple d'utilisation du jeu Tic Tac Toe :
+Voici un exemple d'utilisation du jeu Tic Tac Toe (sur IntelliJ IDEA):
 ![](video-tic-tac-toe-kotlin.gif)
 
 ## Contribuer

@@ -16,11 +16,11 @@ Copy code
 cd tic-tac-toe
 Compilez et exécutez le jeu
 
-Exemple d'utilisation
+## Exemple d'utilisation
 Voici un exemple d'utilisation du jeu Tic Tac Toe :
 ![](video-tic-tac-toe-kotlin.gif)
 
-Contribuer
+## Contribuer
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez proposer des améliorations, des corrections de bugs ou de nouvelles fonctionnalités, n'hésitez pas à créer une issue ou à envoyer une pull request.
 
 J'espère que vous apprécierez jouer à ce jeu Tic Tac Toe en Kotlin ! Si vous avez des questions ou des commentaires, n'hésitez pas à les partager. Bon jeu !

@@ -7,7 +7,7 @@ Assurez-vous d'avoir Kotlin installé sur votre système. Si ce n'est pas le cas
 Clonez ce repository Git sur votre machine locale en utilisant la commande suivante :
 
 Copy code
-```python
+```bash
 git clone https://github.com/grmvcnt/tic-tac-toe-kotlin.git
 ```
 Accédez au répertoire du projet :

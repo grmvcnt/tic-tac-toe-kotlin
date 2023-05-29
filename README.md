@@ -1,4 +1,4 @@
-# tic-tac-toe-kotlin
+# tic tac toe kotlin
 
 Tic Tac Toe Game
 Ce projet est une implémentation simple du jeu Tic Tac Toe (Morpion) en utilisant le langage de programmation Kotlin. Le jeu est joué sur une grille de 3x3 où deux joueurs, X et O, s'affrontent pour aligner trois symboles identiques soit horizontalement, verticalement ou en diagonale.
